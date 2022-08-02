@@ -12,6 +12,3 @@
 ==>Credential for admin panel :<br>
 Username: admin<br>
 Password: Test@123<br>
-<br>
-Project Demo:-<br>
-https://youtu.be/r_pcXroT53E
